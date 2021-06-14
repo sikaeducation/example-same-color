@@ -1,0 +1,15 @@
+div {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 24px;
+}
+
+#hex {
+  background-color: #ff0000;
+}
+#hsl {
+  background-color: hsl(0, 100%, 50%);
+}
+#rgb {
+  background-color: rgb(255, 0, 0);
+}
